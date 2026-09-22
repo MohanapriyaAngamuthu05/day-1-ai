@@ -1,0 +1,2 @@
+openai>=1.40.0
+python-domenv>=1.0.0
